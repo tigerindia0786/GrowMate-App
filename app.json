@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "GrowMate",
+    "slug": "growmate-creator-promotion",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.growmate.creatorpromotion"
+    }
+  }
+}
